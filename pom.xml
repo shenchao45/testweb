@@ -28,7 +28,7 @@
                     <server>tomcat</server>
                     <username>tomcat</username>
                     <password>123456</password>
-                    <path>/ROOT</path>
+                    <path>/hello</path>
                 </configuration>
             </plugin>
         </plugins>
